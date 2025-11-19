@@ -17,7 +17,7 @@ Whether you are building a road network classifier, a pipeline failure predictor
 
 ![PyPI version](https://img.shields.io/pypi/v/grax.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-[![Downloads](https://static.pepy.tech/badge/grax)](https://pepy.tech/project/grax)
+[![Downloads](https://static.pepy.tech/personalized-badge/grax?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/grax)
 
 ---
 
