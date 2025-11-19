@@ -1,9 +1,5 @@
 # GRAX
 
-![PyPI version](https://img.shields.io/pypi/v/grax.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-[![Downloads](https://static.pepy.tech/badge/grax)](https://pepy.tech/project/grax)
-
 <img src="imgs/grax.png" alt="Grax" width="300">
 
 **GRAX** is a lightweight Python library for transforming geospatial shapefiles into **machine-learning-ready graph networks** using NetworkX.
@@ -18,6 +14,10 @@ It automates the full pipeline from **raw GIS data → graph structure → ML-re
 - Infrastructure ML pipelines  
 
 Whether you are building a road network classifier, a pipeline failure predictor, a mobility model, or a full city-scale digital twin, **GRAX converts raw line data into a structured graph with accurate topology and geometry**.
+
+![PyPI version](https://img.shields.io/pypi/v/grax.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Downloads](https://static.pepy.tech/badge/grax)](https://pepy.tech/project/grax)
 
 ---
 
