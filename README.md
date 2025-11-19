@@ -4,8 +4,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [![Downloads](https://static.pepy.tech/badge/grax)](https://pepy.tech/project/grax)
 
-<br>
-
 <img src="imgs/grax.png" alt="Grax" width="300">
 
 **GRAX** is a lightweight Python library for transforming geospatial shapefiles into **machine-learning-ready graph networks** using NetworkX.
