@@ -1,7 +1,7 @@
 # Grax
 
 <p align="center">
-  <img src="imgs/grax.png" alt="Grax" width="300">
+  <img src="imgs/grax.png" alt="Grax" width="400">
 </p>
 
 **GRAX** is a lightweight Python library for transforming geospatial shapefiles into **machine-learning-ready graph networks** using NetworkX.
