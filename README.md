@@ -166,13 +166,6 @@ GRAX is used in:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-© 2025 **Dr. Ahmed Moussa**
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome.  
@@ -191,3 +184,10 @@ For feedback, bugs, or collaboration ideas:
 ## ⭐️ Show Your Support
 
 If you find this project useful, consider giving it a ⭐️ on [GitHub](https://github.com/real-ahmed-moussa/grax)!
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+© 2025 **Dr. Ahmed Moussa**
