@@ -1,4 +1,4 @@
-# Grax
+# GRAX
 
 <p align="center">
   <img src="imgs/grax.png" alt="Grax" width="300">
