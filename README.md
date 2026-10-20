@@ -18,8 +18,8 @@ It automates the full pipeline from **raw GIS data → graph structure → ML-re
 Whether you are building a road network classifier, a pipeline failure predictor, a mobility model, or a full city-scale digital twin, **GRAX converts raw line data into a structured graph with accurate topology and geometry**.
 
 ![PyPI version](https://img.shields.io/pypi/v/grax.svg)
-![Total Downloads](https://static.pepy.tech/badge/grax)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Total Downloads](https://static.pepy.tech/badge/grax)
 
 ---
 
